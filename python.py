@@ -1,5 +1,8 @@
-lenght = float(input('what the lenght:'))
-widght = float(input('what the widght: '))
-area = lenght * widght
+length = float(input("What is the length: "))
+width = float(input("What is the width: "))
+
+area = length * width
+
 print(area)
-input('\nPress Enter to close...')
+
+input("Press Enter to close...")
