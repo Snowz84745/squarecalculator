@@ -1,2 +1,2 @@
-# test
-some test
+# Square Calculator
+My first project
