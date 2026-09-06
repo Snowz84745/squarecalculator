@@ -1,4 +1,4 @@
 # Square Calculator
 My first project
   
-  By: snowz
+  By: Snowz
